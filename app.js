@@ -367,6 +367,8 @@ global.Tournaments = require('./tournaments');
 
 global.Clans = require('./clans.js');
 
+global.hangman = require('./hangman.js').hangman();
+
 try {
 	global.Dnsbl = require('./dnsbl.js');
 } catch (e) {
