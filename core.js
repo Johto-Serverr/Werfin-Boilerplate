@@ -370,6 +370,9 @@ var core = exports.core = {
         'crtSSoH': 'http://static-cdn.jtvnw.net/jtv_user_pictures/emoticon-3228-src-d4b613767d7259c4-28x28.png',
         'SSSsss': 'http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-5d019b356bd38360-24x24.png',
         'SwiftRage': 'http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-680b6b3887ef0d17-21x28.png',
+        'Homer': 'http://pokemonshowdown.tk/images/123.gif',
+        'NotBad': 'http://www.3dsthailand.com/forums/static/image/smiley/3dsthailandEmoF/G31.gif',
+        'rekt': 'http://www.3dsthailand.com/forums/static/image/smiley/3dsthailandEmoE/E-Emo-33.gif',
         'ResidentSleeper': 'http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1ddcc54d77fc4a61-28x28.png'
     },
 
